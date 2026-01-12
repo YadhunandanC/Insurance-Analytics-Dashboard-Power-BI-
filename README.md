@@ -5,6 +5,7 @@
 # 🔍 Overview
 
 - An interactive Power BI dashboard built to analyze insurance policy performance, premium distribution, claims status, and customer demographics.
+
  This dashboard enables stakeholders to quickly understand:
 -Overall premium, coverage, and claim exposure
 -Policy performance by insurance type
@@ -28,12 +29,17 @@ The goal of this dashboard is to help insurance management:
 # 📈 Key KPIs
 
 KPI	Description
+
 -Premium Amount	Total premium collected
 
 -Coverage Amount	Total insured coverage value
+
 -Claim Amount	Total claims raised
+
 -Active Policies %	Currently active policies
+
 -Inactive Policies %	Lapsed or inactive policies
+
 -Claim Count	Total claims by status
 
 ---
