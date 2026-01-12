@@ -5,6 +5,7 @@
 # 🔍 Overview
 
 - An interactive Power BI dashboard built to analyze insurance policy performance, premium distribution, claims status, and customer demographics.
+ 
   This dashboard enables stakeholders to quickly understand:
 - Overall premium, coverage, and claim exposure
 - Policy performance by insurance type
@@ -116,4 +117,4 @@ KPI	Description
 [![Email](https://img.shields.io/badge/Email-gray?logo=gmail)](yadhunandan010@gmail.com)
 
 ---
-![Dashboard Preview](https://github.com/YadhunandanC/Customer_Shopping_Behaviour_Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+![Dashboard Preview][(https://github.com/YadhunandanC/Insurance-Analytics-Dashboard-Power-BI-/blob/main/Snapshot%20of%20the%20Dashboard.png)]
