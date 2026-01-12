@@ -29,6 +29,7 @@ The goal of this dashboard is to help insurance management:
 
 KPI	Description
 -Premium Amount	Total premium collected
+
 -Coverage Amount	Total insured coverage value
 -Claim Amount	Total claims raised
 -Active Policies %	Currently active policies
