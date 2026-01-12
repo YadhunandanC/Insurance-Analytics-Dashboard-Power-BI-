@@ -4,8 +4,7 @@
 
 # 🔍 Overview
 
-- An interactive Power BI dashboard built to analyze insurance policy performance, premium distribution, claims status, and customer demographics.
-
+- An interactive Power BI dashboard built to analyze insurance policy performance, premium distribution, claims status.
 This dashboard enables stakeholders to quickly understand:
 - Overall premium, coverage, and claim exposure
 - Policy performance by insurance type
